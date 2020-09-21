@@ -9,9 +9,12 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
+< satu
+        <activity android:name=".activity_RahmaDestriani"></activity>
         <activity android:name=".NovitaActivity"></activity>
         <activity android:name=".ActivityRoyan" />
         <activity android:name=".activity_jefven" />
+> master
         <activity android:name=".MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
